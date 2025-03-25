@@ -1,0 +1,10 @@
+torch
+loguru
+transformers
+uvicorn
+keylimiter
+communex
+nltk
+sentencepiece
+accelerate
+datasets
